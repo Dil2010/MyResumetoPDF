@@ -660,8 +660,8 @@ body{
  
  .skills .li_wrap,
  .hobbies .li_wrap{
-	 width: 98px;
-	 height: 98px;
+	 width: 90px;
+	 height: 90px;
 	 margin-bottom: 15px;
 	 border-radius: 15px;
 	 display: flex;
